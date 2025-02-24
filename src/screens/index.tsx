@@ -83,7 +83,7 @@ export default function JoyOrderDashboardTemplate() {
             }}
           >
             <Typography level="h2" component="h1">
-              Orders
+              Sales
             </Typography>
             <Button
               color="primary"
