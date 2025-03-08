@@ -1,8 +1,8 @@
 import "./App.css";
-import JoyOrderDashboardTemplate from "./screens";
+import JoySignInSideTemplate from "./screens/login/login";
 
 function App() {
-  return <JoyOrderDashboardTemplate />;
+  return <JoySignInSideTemplate />;
 }
 
 export default App;
